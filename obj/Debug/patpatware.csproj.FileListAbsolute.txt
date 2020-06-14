@@ -1,0 +1,14 @@
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\bin\Debug\patpatware.exe.config
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\bin\Debug\patpatware.exe
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\bin\Debug\patpatware.pdb
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.csprojAssemblyReference.cache
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.Properties.Resources.resources
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.csproj.GenerateResource.cache
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.exe
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.pdb
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.Main.resources
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\bin\Debug\patpatware.exe.manifest
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\bin\Debug\patpatware.application
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.exe.manifest
+C:\Users\user\Documents\MEGAsync\Programming\patpatware\patpatware\obj\Debug\patpatware.application
